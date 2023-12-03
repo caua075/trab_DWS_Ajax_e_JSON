@@ -1,0 +1,44 @@
+.container{
+    margin: 3%;
+}
+
+h4{
+    text-align: right;
+}
+
+#divP{
+    background-color: lightgray;
+    border-radius: 1ch;
+    padding: 5%;
+    display: flex;
+}
+
+label, input{
+    margin-top: 6%;
+}
+
+.botao{
+    margin-top: 4%;
+    margin-left: 5vw;
+}
+.botao div{
+    margin-top: 10%;
+    margin-left: 3%;
+}
+
+#tabela{
+    margin-left: 5%;
+    border: solid 1px gray;
+}
+
+#tabela td{
+    border: solid 1px gray;
+}
+
+.cel3{
+    width: 1vh;
+}
+
+.tabela{
+    margin-left: 4%;
+}
